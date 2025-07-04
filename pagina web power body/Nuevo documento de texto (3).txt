@@ -1,0 +1,44 @@
+<!doctype>
+<html>
+        <head>
+             <meta charset= "ISO 8859- 1">
+             <title> Derechos de autor </title>
+             <link rel="stylesheet" type="text/css" href="estilo8.css">
+             <link rel="shortcut icon" type="image/ico" href="favi.ico">
+         </head>
+   <body>
+       <header id="A1">
+       <h1>DERECHOS RESERVADOS </h1>
+       </header>
+       <nav id="B1">
+       <br>
+       <h1>  </h1>
+       </nav>
+          <section id="C1">
+       
+           <center>     <h1> Contamos con  horarios flexibles y entrenamientos personalizados a tu medida</h1>
+           <br>
+
+    <center> <img src="REY.jpg" alt=" imagen REY.jpg"  height= "60%" width="40%">
+     <img src="training.jpg" alt=" imagen training.jpg"  height= "60%" width="40%">
+           
+           <br>
+           <br>
+           <P>Mejoramos tu condicion fisica y tu imagen  para alcanzar tus objetivos ,
+               nos adaptamos a tus necesidades  y asi prepararte fisicamente, ademas contamos
+              con rehabilitaciones para lesiones.</P>
+          
+
+           </section>
+          </section>
+       <footer id="F1">
+       <h1> <th><a href="maqueta1.html" target="_blank"> Regresa al menu  </a> </th> </h1> 
+       <br> 
+       </br> 
+       <p>   Derechos Reservados:Reynaldo Cherigo</P>
+ 
+       </footer>
+
+   </body>
+
+</html>

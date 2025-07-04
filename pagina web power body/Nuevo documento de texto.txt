@@ -1,0 +1,41 @@
+* { 
+margin:0px;
+padding:0px;
+}
+html {
+background-color:#E47D7D;
+}
+body {
+background-color:#879FA0;
+width:800px;
+height:800px;
+margin:auto;
+
+}
+#A1 {
+width:800px;
+height:100px;
+background-color:#B6B6E1;
+text-align:center;
+}
+#B1 {
+width:800px;
+height:100px;
+background-color:#13B7BD;
+text-align:center;
+}
+#C1 {
+width:800px;
+height:500px;
+background-color:#000000;
+}
+
+
+
+
+#F1 {
+width:800px;
+height:100px;
+background-color:#A04000;
+text-align:center;
+}
