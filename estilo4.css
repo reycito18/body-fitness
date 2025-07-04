@@ -1,0 +1,91 @@
+* { 
+margin:0px;
+padding:0px;
+}
+html {
+background-color:#E47D7D;
+}
+
+body {
+background-color:#879FA0;
+width:800px;
+height:800px;
+margin:auto;
+
+}
+#A1 {
+width:800px;
+height:100px;
+background-color:#B6B6E1;
+text-align:center;
+margin:auto;
+margin:5px botton;
+border-radius:5%;
+
+
+}
+#B1 {
+width:800px;
+height:600px;
+background-color:#13B7BD;
+text-align:center;
+border-radius:5%;
+
+}
+/*
+#C1 {
+width:800px;
+height:600px;
+background-color:#1F618D;
+border-radius:5%;
+float:left;
+
+}
+
+#D1 {
+width:400px;
+height:300px;
+background-color:#922b21;
+text-align:center;
+float:rigth;
+border-radius:5%;
+float:right;
+}
+#E1 {
+width:400px;
+height:300px;
+background-color:#bdc3c7;
+text-align:center;
+border-radius:5%;
+float:left;
+
+
+}
+
+#F1 {
+width:800px;
+height:600px;
+background-color:#FF69B4;
+text-align:center;
+border-radius:5%;
+float:right;
+}
+*/
+
+#C1 {
+width:800px;
+height:600px;
+background-color:#1F618D;
+border-radius:5%;
+
+
+}
+
+
+#G1 {
+width:800px;
+height:100px;
+background-color:#A04000;
+text-align:center;
+border-radius:5%;
+}
